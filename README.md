@@ -3,7 +3,7 @@
 
 ## 🌟 My GitHub Profile
 You can view my customized GitHub profile here:
-👉 [https://github.com/ERICLEECHUNKIAT]
+👉 [[https://github.com/ERICLEECHUNKIAT](https://github.com/22004777/ERIC-LEE-CHUN-KIAT)]
 
 ## 🖼️ Uploaded Image
 This repository includes an image that represents me.
